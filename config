@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "Jeevan"]
+	url = https://github.com/jeevankishoreweb/csvserver.git
+	fetch = +refs/heads/*:refs/remotes/Jeevan/*
