@@ -2,3 +2,4 @@
 
 yum update -y
 yum search java
+$$
